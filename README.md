@@ -8,7 +8,7 @@
 
 - 🤖 Portfolio on **[LinkedIn](https://www.linkedin.com/in/rojan-acharya-266b10213/)**
 
-- 👨‍💻 All of my projects are available at **[My Website](https://rojanacharya.com.np/)**
+- 👨‍💻 **[My Website](https://rojanacharya.com.np/)**
 
 - 📫 You can reach me through **rojan.acharya1@gmail.com**
 
