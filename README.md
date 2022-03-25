@@ -6,11 +6,11 @@
 
 ## Find me around the web 🌎:
 
-- 🤖 Portfolio on **[LinkedIn](https://www.linkedin.com/in/rojan-acharya-266b10213/)**
+- 🤖 Portfolio on <a href="https://www.linkedin.com/in/rojan-acharya/" target="_blank"><b>Linkedin<b><a>
 
-- 👨‍💻 **[My Website](https://rojanacharya.com.np/)**
+- 👨‍💻 <a href="https://rojanacharya.com.np/"><b>My Website<b><a>
 
-- 📫 You can reach me through **rojan.acharya1@gmail.com**
+- 📫 rojan.acharya1@gmail.com
 
 <hr>
 
@@ -53,13 +53,10 @@
   <a href="https://github.com/rojan-acharya/github-readme-stats"><img alt="Rojan Acharya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojan-acharya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-
-
 <br/>
 <br/>
 
-<a href="https://github.com/rojan-acharya/github-readme-activity-graph"><img alt="rojan-acharya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rojan-acharya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<!-- <a href="https://github.com/rojan-acharya/github-readme-activity-graph"><img alt="rojan-acharya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rojan-acharya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
 <br/>
 <hr>
