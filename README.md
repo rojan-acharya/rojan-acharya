@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rojan</h1>
 
-
+Profile Hits: [![HitCount](https://hits.dwyl.com/rojan-acharya/rojan-acharya.svg?style=flat-square)](http://hits.dwyl.com/rojan-acharya/rojan-acharya)
 
 ## Find me around the web 🌎:
 
