@@ -6,7 +6,7 @@
 
 ## Find me around the web 🌎:
 
-- 🤖 Portfolio on <a href="https://www.linkedin.com/in/rojan-acharya/" target="_blank"><b>Linkedin<b><a>
+- 🤖 <a href="https://www.linkedin.com/in/rojan-acharya/" target="_blank"><b>Linkedin<b><a>
 
 - 👨‍💻 <a href="https://rojanacharya.com.np/"><b>My Website<b><a>
 
